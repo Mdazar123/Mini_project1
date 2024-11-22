@@ -19,7 +19,7 @@
   /* border: 1px solid blue; */
   align-items: center;
   width: 70%;
-  display: none;
+  /* display: none; */
 }
 .Home_page_container img{
   width: 250px;
@@ -191,7 +191,7 @@
 }
 .message_container{
   /* display: none; */
-  /* display: none; */
+  display: none;
 }
 
 /* Dark theme styles */
